@@ -3,7 +3,7 @@ author: john
 categories:
 - General
 date: "2006-02-22T15:47:11Z"
-guid: http://www.johnmckinzie.com/archives/2006/02/22/the-kitty-kometh
+guid: /archives/2006/02/22/the-kitty-kometh
 id: 64
 title: The Kitty Kometh!
 url: /2006/02/22/the-kitty-kometh/
@@ -17,4 +17,4 @@ He has settled into his new home. He is a great cat, with the exception of the 6
 
 Below is a picture that shows how refined a kitty he is when he is not cleaning his nether regions.
 
-[<img width="200" height="259" class="centered" id="image65" alt="Gabriel with Crossed Paws" src="http://www.johnmckinzie.com/wordpress/wp-content/uploads/2006/02/gabe-cross-paws.jpg" />](http://www.johnmckinzie.com/wordpress/wp-content/uploads/2006/02/gabe-cross-paws.jpg "Gabriel with Crossed Paws"){.imagelink}
+[<img width="200" height="259" class="centered" id="image65" alt="Gabriel with Crossed Paws" src="/wordpress/wp-content/uploads/2006/02/gabe-cross-paws.jpg" />](/wordpress/wp-content/uploads/2006/02/gabe-cross-paws.jpg "Gabriel with Crossed Paws"){.imagelink}

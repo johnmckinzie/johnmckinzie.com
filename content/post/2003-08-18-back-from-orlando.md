@@ -3,7 +3,7 @@ author: john
 categories:
 - General
 date: "2003-08-18T14:26:07Z"
-guid: http://www.johnmckinzie.com/archives/2003/08/18/back-from-orlando
+guid: /archives/2003/08/18/back-from-orlando
 id: 8
 title: Back from Orlando
 url: /2003/08/18/back-from-orlando/

@@ -3,7 +3,7 @@ author: john
 categories:
 - General
 date: "2006-06-01T19:35:32Z"
-guid: http://www.johnmckinzie.com/archives/2006/06/01/a-couple-countries-here-and-there
+guid: /archives/2006/06/01/a-couple-countries-here-and-there
 id: 68
 title: A Couple Countries Here and There
 url: /2006/06/01/a-couple-countries-here-and-there/

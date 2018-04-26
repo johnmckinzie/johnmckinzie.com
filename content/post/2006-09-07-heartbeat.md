@@ -3,7 +3,7 @@ author: john
 categories:
 - General
 date: "2006-09-07T21:22:25Z"
-guid: http://www.johnmckinzie.com/archives/2006/09/07/heartbeat
+guid: /archives/2006/09/07/heartbeat
 id: 69
 title: Heartbeat&#8230;
 url: /2006/09/07/heartbeat/

@@ -3,7 +3,7 @@ author: john
 categories:
 - General
 date: "2003-08-22T10:57:04Z"
-guid: http://www.johnmckinzie.com/archives/2003/08/22/late-birthday-update
+guid: /archives/2003/08/22/late-birthday-update
 id: 6
 title: Late Birthday Update
 url: /2003/08/22/late-birthday-update/

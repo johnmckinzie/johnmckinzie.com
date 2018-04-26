@@ -3,7 +3,7 @@ author: john
 categories:
 - General
 date: "2003-12-22T09:49:02Z"
-guid: http://www.johnmckinzie.com/archives/2003/12/22/pre-christmas
+guid: /archives/2003/12/22/pre-christmas
 id: 12
 title: Pre-Christmas
 url: /2003/12/22/pre-christmas/

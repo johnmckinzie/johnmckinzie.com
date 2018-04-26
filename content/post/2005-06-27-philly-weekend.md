@@ -5,7 +5,7 @@ categories:
 date: "2005-06-27T20:26:47Z"
 excerpt: The highlight of the weekend was seeing a over zealous fan lose their shorts
   trying to field a foul ball. It made SportsCenter.
-guid: http://www.johnmckinzie.com/?p=52
+guid: /?p=52
 id: 52
 title: Philly Weekend
 url: /2005/06/27/philly-weekend/

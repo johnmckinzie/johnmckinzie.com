@@ -3,7 +3,7 @@ author: john
 categories:
 - Food
 date: "2007-12-26T17:42:58Z"
-guid: http://www.johnmckinzie.com/archives/2007/12/26/a-labor-of-lefse
+guid: /archives/2007/12/26/a-labor-of-lefse
 id: 80
 title: A Labor of Lefse
 url: /2007/12/26/a-labor-of-lefse/

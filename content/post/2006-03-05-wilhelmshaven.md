@@ -6,7 +6,7 @@ categories:
 date: "2006-03-05T14:12:38Z"
 excerpt: After a 1 delayed flight, one $120 cab ride, one lost bag, I've arrived in
   Germany with a grand total of over 24 hours in route.
-guid: http://www.johnmckinzie.com/archives/2006/03/05/wilhelmshaven
+guid: /archives/2006/03/05/wilhelmshaven
 id: 66
 title: Wilhelmshaven
 url: /2006/03/05/wilhelmshaven/

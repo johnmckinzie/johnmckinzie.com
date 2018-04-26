@@ -6,7 +6,7 @@ categories:
 date: "2005-07-20T18:38:40Z"
 excerpt: Recently returned from a trip to Minnesota, I was reminded of the epicurean
   tradition deeply embedded in the life of the northland.
-guid: http://www.johnmckinzie.com/?p=57
+guid: /?p=57
 id: 57
 title: When You Can&#8217;t Bring Along Hotdish&#8230;
 url: /2005/07/20/when-you-cant-bring-along-hotdish/

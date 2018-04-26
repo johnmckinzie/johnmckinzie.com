@@ -3,7 +3,7 @@ author: john
 categories:
 - General
 date: "2003-08-08T15:29:50Z"
-guid: http://www.johnmckinzie.com/archives/2003/08/08/fifa-madness
+guid: /archives/2003/08/08/fifa-madness
 id: 4
 title: FIFA Madness
 url: /2003/08/08/fifa-madness/

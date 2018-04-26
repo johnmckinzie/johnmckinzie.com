@@ -3,7 +3,7 @@ author: john
 categories:
 - General
 date: "2003-08-06T21:30:37Z"
-guid: http://www.johnmckinzie.com/archives/2003/08/06/signs-of-life
+guid: /archives/2003/08/06/signs-of-life
 id: 2
 title: Signs of Life
 url: /2003/08/06/signs-of-life/

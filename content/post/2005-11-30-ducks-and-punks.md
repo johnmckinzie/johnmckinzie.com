@@ -6,7 +6,7 @@ categories:
 date: "2005-11-30T13:54:40Z"
 excerpt: Can a proper set of Liberty Spikes support a 12 lbs. bowling ball? Let's
   find out!
-guid: http://www.johnmckinzie.com/?p=61
+guid: /?p=61
 id: 61
 title: Ducks and Punks
 url: /2005/11/30/ducks-and-punks/

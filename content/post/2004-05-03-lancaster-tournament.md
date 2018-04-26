@@ -4,7 +4,7 @@ categories:
 - Hockey
 - Travel
 date: "2004-05-03T10:38:06Z"
-guid: http://www.johnmckinzie.com/archives/2004/05/03/lancaster-tournament
+guid: /archives/2004/05/03/lancaster-tournament
 id: 16
 title: Lancaster Tournament
 url: /2004/05/03/lancaster-tournament/

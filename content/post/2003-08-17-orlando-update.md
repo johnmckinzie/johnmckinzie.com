@@ -3,7 +3,7 @@ author: john
 categories:
 - General
 date: "2003-08-17T10:57:14Z"
-guid: http://www.johnmckinzie.com/archives/2003/08/17/orlando-update
+guid: /archives/2003/08/17/orlando-update
 id: 5
 title: Orlando Update
 url: /2003/08/17/orlando-update/

@@ -3,7 +3,7 @@ author: john
 categories:
 - Travel
 date: "2003-11-18T11:12:58Z"
-guid: http://www.johnmckinzie.com/archives/2003/11/18/boston-trip
+guid: /archives/2003/11/18/boston-trip
 id: 11
 title: Boston Trip!
 url: /2003/11/18/boston-trip/

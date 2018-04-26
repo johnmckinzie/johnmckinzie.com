@@ -3,7 +3,7 @@ author: john
 categories:
 - General
 date: "2007-06-29T10:10:23Z"
-guid: http://www.johnmckinzie.com/archives/2007/06/29/sql-server-2005-and-php
+guid: /archives/2007/06/29/sql-server-2005-and-php
 id: 76
 title: SQL Server 2005 and CakePHP
 url: /2007/06/29/sql-server-2005-and-cakephp/

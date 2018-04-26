@@ -4,7 +4,7 @@ categories:
 - General
 date: "2004-09-08T14:20:36Z"
 excerpt: The past month has not been too eventful.
-guid: http://www.johnmckinzie.com/archives/2004/09/08/end-of-summer
+guid: /archives/2004/09/08/end-of-summer
 id: 22
 title: End of Summer
 url: /2004/09/08/end-of-summer/

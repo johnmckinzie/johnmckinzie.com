@@ -3,7 +3,7 @@ author: john
 categories:
 - General
 date: "2007-02-27T22:28:44Z"
-guid: http://www.johnmckinzie.com/archives/2007/02/27/minnesota-trip-2007
+guid: /archives/2007/02/27/minnesota-trip-2007
 id: 73
 title: Minnesota Trip 2007
 url: /2007/02/27/minnesota-trip-2007/

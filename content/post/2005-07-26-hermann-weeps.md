@@ -5,7 +5,7 @@ categories:
 date: "2005-07-26T20:38:46Z"
 excerpt: New Ulm has lost one of its 1000+ reasons to partake of Schell's beer and
   bratwurst in mass quantities.
-guid: http://www.johnmckinzie.com/?p=58
+guid: /?p=58
 id: 58
 title: Hermann Weeps
 url: /2005/07/26/hermann-weeps/
@@ -21,4 +21,4 @@ I have one final plea to save Heritagefest. The organziers need to reevaluate th
 
 In closing, [Hermann](http://news.minnesota.publicradio.org/features/2004/11/09_steilm_hermannreturns/) weeps tears of [Schell&#8217;s](http://www.schellsbrewery.com/).
 
-[Official Heritagefest History](http://www.johnmckinzie.com/files/HfestHistoryFeature.pdf)
+[Official Heritagefest History](/files/HfestHistoryFeature.pdf)

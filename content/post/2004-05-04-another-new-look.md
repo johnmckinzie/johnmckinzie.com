@@ -3,7 +3,7 @@ author: john
 categories:
 - General
 date: "2004-05-04T15:24:40Z"
-guid: http://www.johnmckinzie.com/archives/2004/05/04/another-new-look
+guid: /archives/2004/05/04/another-new-look
 id: 17
 title: Another New Look
 url: /2004/05/04/another-new-look/

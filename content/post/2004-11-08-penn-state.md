@@ -5,7 +5,7 @@ categories:
 date: "2004-11-08T16:03:22Z"
 excerpt: 'Penn State was playing Northwestern, so I had my hopes up for a victory
   and ensuing partying. '
-guid: http://www.johnmckinzie.com/archives/2004/11/08/penn-state
+guid: /archives/2004/11/08/penn-state
 id: 26
 title: Penn State
 url: /2004/11/08/penn-state/

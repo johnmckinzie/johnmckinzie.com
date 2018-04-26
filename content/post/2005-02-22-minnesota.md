@@ -4,7 +4,7 @@ categories:
 - Travel
 date: "2005-02-22T15:20:45Z"
 excerpt: Northern Lights? Check. Gopher Hockey? Check. Sausage and brats? Check!
-guid: http://www.johnmckinzie.com/archives/2005/04/06/minnesota
+guid: /archives/2005/04/06/minnesota
 id: 35
 title: Minnesota
 url: /2005/02/22/minnesota/

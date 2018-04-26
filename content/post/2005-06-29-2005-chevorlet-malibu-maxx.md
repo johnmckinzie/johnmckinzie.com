@@ -5,7 +5,7 @@ categories:
 date: "2005-06-29T20:38:57Z"
 excerpt: I have end my attempt at being a young hip designer by trading my 2002 Volkswagen
   GTI for a Chevorlet Malibu Maxx.
-guid: http://www.johnmckinzie.com/?p=53
+guid: /?p=53
 id: 53
 title: 2005 Chevorlet Malibu Maxx
 url: /2005/06/29/2005-chevorlet-malibu-maxx/

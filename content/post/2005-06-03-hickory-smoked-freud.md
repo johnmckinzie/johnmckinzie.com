@@ -3,7 +3,7 @@ author: john
 categories:
 - General
 date: "2005-06-03T10:47:52Z"
-guid: http://www.johnmckinzie.com/archives/2005/06/03/pig-art
+guid: /archives/2005/06/03/pig-art
 id: 40
 title: Hickory Smoked Freud
 url: /2005/06/03/hickory-smoked-freud/

@@ -3,7 +3,7 @@ author: john
 categories:
 - General
 date: "2006-09-15T09:30:22Z"
-guid: http://www.johnmckinzie.com/archives/2006/09/15/now-with-active-cultures
+guid: /archives/2006/09/15/now-with-active-cultures
 id: 71
 title: Now With Active Cultures!
 url: /2006/09/15/now-with-active-cultures/

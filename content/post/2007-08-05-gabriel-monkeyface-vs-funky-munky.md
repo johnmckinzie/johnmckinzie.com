@@ -3,7 +3,7 @@ author: john
 categories:
 - Humor
 date: "2007-08-05T21:44:12Z"
-guid: http://www.johnmckinzie.com/archives/2007/08/05/gabriel-monkeyface-vs-funky-munky
+guid: /archives/2007/08/05/gabriel-monkeyface-vs-funky-munky
 id: 77
 title: Gabriel Monkeyface vs. Funky Munky
 url: /2007/08/05/gabriel-monkeyface-vs-funky-munky/

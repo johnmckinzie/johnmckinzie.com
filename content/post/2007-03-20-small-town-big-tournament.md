@@ -3,7 +3,7 @@ author: john
 categories:
 - General
 date: "2007-03-20T20:53:46Z"
-guid: http://www.johnmckinzie.com/archives/2007/03/20/small-town-big-tournament
+guid: /archives/2007/03/20/small-town-big-tournament
 id: 75
 title: Small Town, Big Tournament
 url: /2007/03/20/small-town-big-tournament/

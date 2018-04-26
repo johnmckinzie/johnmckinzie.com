@@ -4,7 +4,7 @@ categories:
 - General
 - Travel
 date: "2004-05-24T13:00:34Z"
-guid: http://www.johnmckinzie.com/archives/2004/05/24/harpers-ferry
+guid: /archives/2004/05/24/harpers-ferry
 id: 19
 title: Harper&#8217;s Ferry
 url: /2004/05/24/harpers-ferry/

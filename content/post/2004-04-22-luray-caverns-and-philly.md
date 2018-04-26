@@ -3,7 +3,7 @@ author: john
 categories:
 - Travel
 date: "2004-04-22T12:23:09Z"
-guid: http://www.johnmckinzie.com/archives/2004/04/22/luray-caverns-and-philly
+guid: /archives/2004/04/22/luray-caverns-and-philly
 id: 14
 title: Luray Caverns and Philly
 url: /2004/04/22/luray-caverns-and-philly/

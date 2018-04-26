@@ -3,7 +3,7 @@ author: john
 categories:
 - Travel
 date: "2004-09-24T13:27:57Z"
-guid: http://www.johnmckinzie.com/archives/2004/09/24/ashleys-birthday
+guid: /archives/2004/09/24/ashleys-birthday
 id: 23
 title: Ashley&#8217;s Birthday!!!
 url: /2004/09/24/ashleys-birthday/
