@@ -1,0 +1,31 @@
+baseurl = "http://hugo.johnmckinzie.com/"
+languageCode = "en-us"
+title = "John McKinzie"
+theme = "hugo-natrium-theme"
+preserveTaxonomyNames = true
+rssLimit = 10
+paginate = 10
+pygmentsCodefences = true
+pygmentsStyle = "native"
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+
+[permalinks]
+    post = "/:slug/"
+    page = "/:slug/"
+
+[[menu.main]]
+    name = "Categories"
+    url = "/categories"
+    weight = -130
+
+[params]
+    description = ""
+
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
