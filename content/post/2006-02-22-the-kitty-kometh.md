@@ -13,7 +13,7 @@ I would like to formally announce the addition of a new member to the household.
 
 I have to say, it felt a little shady doing a deal for a cat in the parking and that I might have needed backup just in case the deal went bad. All went well and we ended up with a cat, some litter, a bag of food, and a leopard-skin cat carrier that is better suited for a spoiled Chihuahua.
 
-He has settled into his new home. He is a great cat, with the exception of the 6:30 AM &#8220;Cat Crazies&#8221; which entail raucous meowing and length of the house gallops. He has a preoccupation with the garage and demands quality time in there every night. He has a fetish for tap water. Anytime he can get into the bathroom, he hops onto the counter and waits for someone to turn on his precious spigot.
+He has settled into his new home. He is a great cat, with the exception of the 6:30 AM "Cat Crazies" which entail raucous meowing and length of the house gallops. He has a preoccupation with the garage and demands quality time in there every night. He has a fetish for tap water. Anytime he can get into the bathroom, he hops onto the counter and waits for someone to turn on his precious spigot.
 
 Below is a picture that shows how refined a kitty he is when he is not cleaning his nether regions.
 

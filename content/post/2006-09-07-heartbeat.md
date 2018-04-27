@@ -5,7 +5,7 @@ categories:
 date: "2006-09-07T21:22:25Z"
 guid: /archives/2006/09/07/heartbeat
 id: 69
-title: Heartbeat&#8230;
+title: Heartbeat?
 url: /2006/09/07/heartbeat/
 ---
 

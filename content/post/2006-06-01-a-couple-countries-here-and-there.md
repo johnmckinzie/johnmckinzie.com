@@ -9,7 +9,7 @@ title: A Couple Countries Here and There
 url: /2006/06/01/a-couple-countries-here-and-there/
 ---
 
-The last couple months I have been spending a few hours here and there on flights overseas. I will be trying to write up some of the experiences in individual posts, but for now I will provide some links to some of the places I&#8217;ve travelled.
+The last couple months I have been spending a few hours here and there on flights overseas. I will be trying to write up some of the experiences in individual posts, but for now I will provide some links to some of the places I've travelled.
 
 ### Germany
 
