@@ -1,4 +1,4 @@
-baseUrl = "http://johnmckinzie.netlify.com/"
+baseURL = "http://johnmckinzie.netlify.com/"
 languageCode = "en-us"
 title = "John McKinzie"
 theme = "hugo-natrium-theme"
