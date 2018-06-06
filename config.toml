@@ -1,4 +1,4 @@
-baseURL = "https://johnmckinzie.netlify.com/"
+baseURL = "https://www.johnmckinzie.com/"
 languageCode = "en-us"
 title = "John McKinzie"
 theme = "hugo-natrium-theme"
