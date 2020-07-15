@@ -1,7 +1,7 @@
 baseURL = "https://www.johnmckinzie.com/"
 languageCode = "en-us"
 title = "John McKinzie"
-theme = "hugo-natrium-theme"
+theme = "harbor"
 preserveTaxonomyNames = true
 rssLimit = 10
 paginate = 10
