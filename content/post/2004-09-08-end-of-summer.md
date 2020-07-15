@@ -16,11 +16,11 @@ The end of the summer draws near and it's time for a post. The past month has be
 
 I went to a couple of shows during August. I caught [The Lawrence Arms](http://www.thelawrencearms.net) at [The Canal Club](http://www.thecanalclub.com) in Richmond. This place was hammered last week by 14 inches of rain dropped by the remnants of Hurricane Gaston. Later that week, we travelled up to DC to see the [Face to Face](http://facetofacemusic.com) farewell tour at the [Nightclub 9:30](http://www.930.com) (aka 9:30 Club). From start to finish, it was 80 minutes of every great Face to Face songs. These guys have been around for almost 14 years and it will be sad to see them go.
 
-This week Ashley and I are headed up to Atlantic City and New York City for her birthday. It will be Ashley's first trip to NYC. I been there quite a few times but it is still always exciting to visit.
+This week I am heading up to Atlantic City and New York City. It will be my first trip to NYC in a while. I been there quite a few times but it is still always exciting to visit.
 
 My cousin's girlfriend recently took a trip to Kamchatka, Russia. She has posted some [pictures](http://asuaf.org/~ftjna/Russia/kamchatka.html) of the trip that are simply amazing. This place has definitely been added to travel list.
 
-I picked up the [Metroid: Prime](http://www.metroid.com/prime/) [GameCube](http://www.nintendo.com) bundle for $99 this weekend. I have not bought a game system since the Dreamcast dropped to $50. I played [Mario Kart: Double Dash](http://www.mariokart.com) with Ashley's family. This game is a riot. I have to say that it is lacking compared to the previous games in battle mode, however the two person team driving more than makes up for it.
+I picked up the [Metroid: Prime](http://www.metroid.com/prime/) [GameCube](http://www.nintendo.com) bundle for $99 this weekend. I have not bought a game system since the Dreamcast dropped to $50. I played [Mario Kart: Double Dash](http://www.mariokart.com). This game is a riot. I have to say that it is lacking compared to the previous games in battle mode, however the two person team driving more than makes up for it.
 
 Current Media:</p> 
 

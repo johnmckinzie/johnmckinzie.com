@@ -11,7 +11,7 @@ title: Philly Weekend
 url: /2005/06/27/philly-weekend/
 ---
 
-I was in Philadelphia, PA this weekend to see some friends. Ashley and I headed up on Friday and took slowride up the Eastern Shore of Virginia. We stopped at a new favorite of mine, Mi Casita taco wagon in [Mappsville, VA](http://maps.google.com/maps?q=mappsville,+va&spn=0.108866,0.191231&hl=en). Authentic (steak, onions, cilantro, corn tortilla, verde sauce) tacos for $1.25 served by a very nice family. If you are travelling on US 13 in Virgina, keep a look out for it near Matthew's Market.
+I was in Philadelphia, PA this weekend to see some friends. I headed up on Friday and took slowride up the Eastern Shore of Virginia. We stopped at a new favorite of mine, Mi Casita taco wagon in [Mappsville, VA](http://maps.google.com/maps?q=mappsville,+va&spn=0.108866,0.191231&hl=en). Authentic (steak, onions, cilantro, corn tortilla, verde sauce) tacos for $1.25 served by a very nice family. If you are travelling on US 13 in Virgina, keep a look out for it near Matthew's Market.
 
 Friday night we had the obligatory cheesesteak. We went to a place I had not been, [Abner's Cheesesteaks](http://www.digitalcity.com/philadelphia/entertainment/venue.adp?vid=120984) in University City. Not a bad steak. [Jim's](http://www.hollyeats.com/JimsSteaks.htm) on South Street is still my favorite, but Abner's did have a top-notch waffle fries and a complete condiment bar. After dinner we hop in the car and head to [Manayunk](http://www.manayunk.com/). It's a trendy part of Philly with ton's of restaurants and bars just up the Schuylkill from downtown.
 

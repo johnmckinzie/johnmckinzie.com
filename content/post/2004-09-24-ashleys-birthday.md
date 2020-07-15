@@ -7,6 +7,7 @@ guid: /archives/2004/09/24/ashleys-birthday
 id: 23
 title: Ashley's Birthday!!!
 url: /2004/09/24/ashleys-birthday/
+headless: yes
 ---
 
 Ashley's birthday has came and passed. We traveled up to Atlantic City and New York for a long birthday weekend.
